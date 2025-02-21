@@ -7,7 +7,6 @@ This is a minimal CRM Dashboard template built with modern web technologies.
 - **React** (v18.3.1)
 - **Vite** (for fast development and build process)
 - **TailwindCSS** (for styling)
-- **Material UI** (MUI) for additional UI components
 - **Radix UI** (for accessible components)
 - **Lucide React** (for icons)
 - **Axios** (for API requests)
