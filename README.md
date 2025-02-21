@@ -18,7 +18,6 @@ This is a minimal CRM Dashboard template built with modern web technologies.
 1. Clone the repository:
    ```sh
    git clone https://github.com/Shodmonov01/DashboardTamplate.git
-   cd crm-dashboard
    ```
 
 2. Install dependencies:
