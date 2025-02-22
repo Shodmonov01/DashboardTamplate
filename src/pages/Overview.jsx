@@ -1,3 +1,7 @@
+import { Button } from "@/components/ui/button";
+import { Input } from "@/components/ui/input";
+
+
 export function Overview() {
   return (
     <div>
@@ -10,6 +14,8 @@ export function Overview() {
         <div className="bg-white p-6 rounded-lg shadow">
           <h2 className="text-xl font-semibold mb-4">Recent Activity</h2>
           <p>Display recent user activity or notifications here...</p>
+          <Button>button</Button>
+          <Input></Input>
         </div>
       </div>
     </div>
